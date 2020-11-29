@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/farah/Schreibtisch/FH-Informatik/PROZD-LAB/Übungsbeispiele/Eratosthenes/main.c
+stdio.h
+-
+math.h
+-
+

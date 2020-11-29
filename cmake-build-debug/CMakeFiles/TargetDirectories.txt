@@ -1,0 +1,3 @@
+/home/farah/Schreibtisch/FH-Informatik/PROZD-LAB/Übungsbeispiele/Eratosthenes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/farah/Schreibtisch/FH-Informatik/PROZD-LAB/Übungsbeispiele/Eratosthenes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/farah/Schreibtisch/FH-Informatik/PROZD-LAB/Übungsbeispiele/Eratosthenes/cmake-build-debug/CMakeFiles/Eratosthenes.dir
